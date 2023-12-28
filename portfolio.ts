@@ -12,26 +12,26 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "Jake",
+  title: "Hi all, I'm Jake",
   description:
-    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
+    "I'm a passionate FrontEnd web developer with experience developing FrontEnd web applications with Angular, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "JSProto",
 };
 
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:hanzla.tauqeer123@gmail.com",
+  email: "mailto:jake@gmail.com",
   linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/1hanzla100",
-  instagram: "https://www.instagram.com/__hanzla100",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
+  github: "https://github.com/JSProto",
+  instagram: "https://www.instagram.com/jake",
+  facebook: 'https://www.facebook.com/jake',
+  twitter: 'https://twitter.com/jake',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -196,18 +196,15 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Jake",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
+  author: "Jake",
+  image: "https://avatars.githubusercontent.com/u/14205649?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: [
-    "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
+    "Jake"
+    "jake",
     "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Jake Portfolio",
   ],
 };
